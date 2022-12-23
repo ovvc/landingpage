@@ -9,6 +9,7 @@ function App() {
         <h3>OVC</h3>
       </header>
       <main className="App-main">
+        <a href="mailto:oskydiverps@gmail.com">Email Me</a>
       </main>
     </div>
   );
